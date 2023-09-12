@@ -1,3 +1,3 @@
 <?php
-    echo 'nouveau';
+    echo 'new data';
 ?>
