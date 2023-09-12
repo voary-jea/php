@@ -1,3 +1,3 @@
 <?php
-    echo 'entrainement 2h';
+    echo 'nouveau';
 ?>
