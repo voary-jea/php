@@ -1,3 +1,3 @@
 <?php
-    echo 'Test environnement GIT';
+    echo 'nouveau pratique';
 ?>
